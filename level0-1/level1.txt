@@ -1,0 +1,7 @@
+NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+
+use ls to see the available folder and files 
+ls
+
+and then use cat to read the file
+cat readme

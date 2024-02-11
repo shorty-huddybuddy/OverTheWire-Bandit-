@@ -1,0 +1,13 @@
+2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
+
+
+go to inhere folder
+$ cd inhere/
+
+then 
+$ ls
+
+but you can not see any files(refer google to know moer about it)
+
+so to see all available file and folder you can use 
+$ls -a

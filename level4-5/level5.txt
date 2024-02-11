@@ -1,0 +1,31 @@
+lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
+
+
+go to inhere folder
+$cd inhere
+
+then use ls
+$ls
+
+then you can see ten folder and one of them is human readble 
+
+so refer 
+$man file 
+we are gonna use file command to know the file type
+$file ./*
+it check all the files availble in current folder and return its type whether it is data or ascii text
+
+
+$ file ./*
+output:
+./-file00: data
+./-file01: data
+./-file02: data
+./-file03: data
+./-file04: data
+./-file05: data
+./-file06: data
+./-file07: ASCII text
+./-file08: data
+./-file09: data
+

@@ -1,0 +1,10 @@
+aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
+
+
+use 
+$ ls
+there is a spaced file name 
+
+so to read that 
+
+$ cat "file_name"
